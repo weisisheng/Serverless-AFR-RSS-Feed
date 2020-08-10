@@ -23,7 +23,3 @@ This bot is designed to scrape Google Web Search results for afr.com articles wi
 * Run `sls offline` to run locally.
 * Run `sls deploy` to deploy to AWS.
 * On Slack run `/feed subscribe {your-app-url}`
-
-## Authors
-
-Sam Chung - samchungy@gmail.com
