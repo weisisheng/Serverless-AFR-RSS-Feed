@@ -1,4 +1,4 @@
-# Serverless RSS Feed
+# Serverless AFR RSS Feed
 
 A simple 30 minute serverless RSS Feed designed to be invoked by Slack's RSS Feed.
 
